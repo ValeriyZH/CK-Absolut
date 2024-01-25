@@ -1,0 +1,26 @@
+2024-01-24 16:21:55 | INFO | # Записываем дату и время начала теста: 24.01.2024
+2024-01-24 16:21:56 | INFO | Заходим на стартовую страницу:
+2024-01-24 16:21:57 | INFO | Ставим чек-бокс "Подтверждаю, что..."
+2024-01-24 16:22:07 | INFO | Element not found: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//label[text()=" Подтверждаю, что "]"}
+  (Session info: chrome=121.0.6167.85); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x55946bb07d93 <unknown>
+#1 0x55946b7eb337 <unknown>
+#2 0x55946b836d60 <unknown>
+#3 0x55946b836e51 <unknown>
+#4 0x55946b87abc4 <unknown>
+#5 0x55946b85946d <unknown>
+#6 0x55946b87812d <unknown>
+#7 0x55946b8591e3 <unknown>
+#8 0x55946b829135 <unknown>
+#9 0x55946b82a13e <unknown>
+#10 0x55946bacbe4b <unknown>
+#11 0x55946bacfdfa <unknown>
+#12 0x55946bab86d5 <unknown>
+#13 0x55946bad0a6f <unknown>
+#14 0x55946ba9c69f <unknown>
+#15 0x55946baf5098 <unknown>
+#16 0x55946baf5262 <unknown>
+#17 0x55946bb06f34 <unknown>
+#18 0x7fc290694ac3 <unknown>
+

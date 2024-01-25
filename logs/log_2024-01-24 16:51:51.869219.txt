@@ -1,0 +1,31 @@
+2024-01-24 16:51:51 | INFO | # Записываем дату и время начала теста: 24.01.2024
+2024-01-24 16:51:52 | INFO | Заходим на стартовую страницу:
+2024-01-24 16:51:53 | INFO | Ставим чек-бокс "Подтверждаю, что..."
+2024-01-24 16:51:53 | INFO | True
+2024-01-24 16:51:53 | INFO | Вводим цену полиса:
+2024-01-24 16:51:54 | INFO | Message: invalid element state: Element is not currently interactable and may not be manipulated
+  (Session info: chrome=121.0.6167.85)
+Stacktrace:
+#0 0x55fbf1f9bd93 <unknown>
+#1 0x55fbf1c7f337 <unknown>
+#2 0x55fbf1c8469a <unknown>
+#3 0x55fbf1c8696f <unknown>
+#4 0x55fbf1c86a1c <unknown>
+#5 0x55fbf1cc1afd <unknown>
+#6 0x55fbf1ced442 <unknown>
+#7 0x55fbf1cbf028 <unknown>
+#8 0x55fbf1ced60e <unknown>
+#9 0x55fbf1d0c12d <unknown>
+#10 0x55fbf1ced1e3 <unknown>
+#11 0x55fbf1cbd135 <unknown>
+#12 0x55fbf1cbe13e <unknown>
+#13 0x55fbf1f5fe4b <unknown>
+#14 0x55fbf1f63dfa <unknown>
+#15 0x55fbf1f4c6d5 <unknown>
+#16 0x55fbf1f64a6f <unknown>
+#17 0x55fbf1f3069f <unknown>
+#18 0x55fbf1f89098 <unknown>
+#19 0x55fbf1f89262 <unknown>
+#20 0x55fbf1f9af34 <unknown>
+#21 0x7f55d0894ac3 <unknown>
+

@@ -1,0 +1,29 @@
+2024-01-24 16:56:39 | INFO | # Записываем дату и время начала теста: 24.01.2024
+2024-01-24 16:56:40 | INFO | Заходим на стартовую страницу:
+2024-01-24 16:56:41 | INFO | Вводим цену полиса:
+2024-01-24 16:56:41 | INFO | Message: invalid element state: Element is not currently interactable and may not be manipulated
+  (Session info: chrome=121.0.6167.85)
+Stacktrace:
+#0 0x560f61e2ed93 <unknown>
+#1 0x560f61b12337 <unknown>
+#2 0x560f61b1769a <unknown>
+#3 0x560f61b1996f <unknown>
+#4 0x560f61b19a1c <unknown>
+#5 0x560f61b54afd <unknown>
+#6 0x560f61b80442 <unknown>
+#7 0x560f61b52028 <unknown>
+#8 0x560f61b8060e <unknown>
+#9 0x560f61b9f12d <unknown>
+#10 0x560f61b801e3 <unknown>
+#11 0x560f61b50135 <unknown>
+#12 0x560f61b5113e <unknown>
+#13 0x560f61df2e4b <unknown>
+#14 0x560f61df6dfa <unknown>
+#15 0x560f61ddf6d5 <unknown>
+#16 0x560f61df7a6f <unknown>
+#17 0x560f61dc369f <unknown>
+#18 0x560f61e1c098 <unknown>
+#19 0x560f61e1c262 <unknown>
+#20 0x560f61e2df34 <unknown>
+#21 0x7f4d63e94ac3 <unknown>
+
